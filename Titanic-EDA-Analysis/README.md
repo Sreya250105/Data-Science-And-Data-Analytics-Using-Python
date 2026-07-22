@@ -24,7 +24,6 @@ The objective of this project is to perform a **Mini Exploratory Data Analysis (
 - Python
 - Pandas
 - Matplotlib
-- Seaborn
 - Jupyter Notebook
 
 ---
